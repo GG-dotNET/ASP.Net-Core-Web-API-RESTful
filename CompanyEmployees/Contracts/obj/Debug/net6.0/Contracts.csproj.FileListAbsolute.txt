@@ -1,0 +1,12 @@
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\bin\Debug\net6.0\ref\Contracts.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
