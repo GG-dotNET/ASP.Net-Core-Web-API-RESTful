@@ -13,3 +13,7 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\Co
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\bin\Debug\net6.0\Repository.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\bin\Debug\net6.0\Repository.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.pdb
