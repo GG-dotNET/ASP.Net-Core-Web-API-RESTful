@@ -1,6 +1,5 @@
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.deps.json
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.dll
-C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\bin\Debug\net6.0\ref\Shared.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.pdb
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\Co
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll

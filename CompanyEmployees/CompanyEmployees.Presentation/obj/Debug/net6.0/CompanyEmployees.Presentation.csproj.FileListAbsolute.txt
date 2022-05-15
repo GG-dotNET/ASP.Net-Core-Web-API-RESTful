@@ -1,6 +1,5 @@
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
-C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
@@ -15,3 +14,4 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\Co
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll

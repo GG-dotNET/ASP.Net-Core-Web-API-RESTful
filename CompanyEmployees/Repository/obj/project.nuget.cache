@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GPS10fanYcGZ7DRcc9mdVfmqEcxJ+ohjrQANvZiKWCM7q6P+5n7vOfB+jHCEEP9PDTlNGyjgWud7lGt0uDqQdg==",
+  "dgSpecHash": "C74kX9TYEV4p2zntGiWZGTV0NhofsNAS/esQ3IY2zVOfRYqJjdXXkmgyusdph/FZc8HCUY5xvyLCts2WAcM9/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Lieberman\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lieberman\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

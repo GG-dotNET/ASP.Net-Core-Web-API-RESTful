@@ -1,4 +1,5 @@
 using CompanyEmployees.Extensions;
+using CompanyEmployees.Presentation.ActionFilters;
 using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Mvc;
@@ -10,7 +11,7 @@ LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(),
     "/nlog.config"));
 
 builder.Services.ConfigureCors();
-builder.Services.ConfigureIISIntegration();
+builder.Services.ConfigureIisIntegration();
 builder.Services.ConfigureLoggerService();
 builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureServiceManager();
@@ -22,7 +23,7 @@ builder.Services.Configure<ApiBehaviorOptions>(option =>
 });
 builder.Services.AddControllers().AddApplicationPart(typeof(CompanyEmployees.Presentation.AssemblyReference).Assembly);
 builder.Services.AddAutoMapper(typeof(Program));
-
+builder.Services.AddScoped<ValidationFilterAttribute>();
 builder.Services.AddControllers();
 
 var app = builder.Build();

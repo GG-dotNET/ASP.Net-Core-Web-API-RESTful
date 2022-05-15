@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nR31Z4T/ycRtJkLNYgAqg1iygWmHWS++n0J2xu3WqsVrfBkYpCCvZpoWsBcj2s/knbo5UnQJCMMmMH7p1+P+Hg==",
+  "dgSpecHash": "6lSLKwCW8PON0kw7yK9+T+ywqh2/sEYyWH2Tnqh1GTCS6tmcAdPjxMgOSN5SkrbBWtMP07uSc6ZN44PgdDAPvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
@@ -78,6 +78,7 @@
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\Lieberman\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",

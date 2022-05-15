@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Entities >= 1.0.0"
+      "Entities >= 1.0.0",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\Shared\\Shared.csproj"
             }
           }
         }
@@ -88,7 +107,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,5 @@
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.deps.json
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.dll
-C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\ref\Repository.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.pdb
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.pdb
@@ -15,3 +14,6 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\Co
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\ASP.Net-Core-Web-API-RESTful\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll

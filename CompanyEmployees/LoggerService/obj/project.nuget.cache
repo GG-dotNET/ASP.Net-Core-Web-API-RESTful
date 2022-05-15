@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DJ8re763dWkp6XN1JVu4MUojreQ8DwM5aAgLmeo0P+czo8f/eXnyTH7scXdntFFLZE0lLTeCfk857CgSLPNn1A==",
+  "dgSpecHash": "CTbAzdydFzjnclW5VnT+sPL0CXN3F7haqJQBg0saywtx7CqHMbvzSMu2ji8NtWMhmclWY1fdLgdczJ2VFPfsOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lieberman\\Desktop\\Projects\\Repositories\\ASP.Net-Core-Web-API-RESTful\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Lieberman\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lieberman\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512",
     "C:\\Users\\Lieberman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

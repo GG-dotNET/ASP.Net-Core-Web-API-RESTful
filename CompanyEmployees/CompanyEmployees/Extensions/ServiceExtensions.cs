@@ -15,10 +15,11 @@ public static class ServiceExtensions
             options.AddPolicy("CorsPolicy", builder =>
                 builder.AllowAnyOrigin()
                     .AllowAnyMethod()
-                    .AllowAnyHeader());
+                    .AllowAnyHeader()
+                    .WithExposedHeaders("X-Pagination"));
         });
     
-    public static void ConfigureIISIntegration(this IServiceCollection services) =>
+    public static void ConfigureIisIntegration(this IServiceCollection services) =>
         services.Configure<IISOptions>(options =>
         {
         });
